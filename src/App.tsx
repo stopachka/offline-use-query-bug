@@ -25,10 +25,13 @@ function App() {
       </button>
       <pre>
         - Go offline
-        - Click transact 
+        <br />
+        - Click transact <br />
         - See the optimistic update happened
-        - Refresh the page 
+        <br />
+        - Refresh the page <br />
         - See that there is _no_ optimistic update
+        <br />
       </pre>
     </>
   );
